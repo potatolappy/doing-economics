@@ -1,6 +1,6 @@
 # doing-economics
 
-a list of excel & python guided-exercises related to economics topics (inequality, climate change, wage, inflation, etc)
+a list of excel & python guided-exercises related to economics topics (compound growth rate, median & mean income, inequality, climate change, wage, inflation, etc)
 
 project's source can be found here: https://www.core-econ.org/doing-economics/index.html
 
